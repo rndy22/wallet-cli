@@ -15,9 +15,6 @@ If you need any help, please join the [Telegram](https://t.me/troncoredevscommun
 ```
 net {
   type = mainnet
-  # type = testnet
-}
-
 fullnode = {
   ip.list = [
     "fullnode ip : port"
